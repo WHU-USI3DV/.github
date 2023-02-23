@@ -14,5 +14,5 @@ We are Urban Spatial Intelligence (USI) Research Group at State Key Laboratory o
   - [AAAI 2023] KT-Net: Knowledge Transfer for Unpaired 3D Shape Completion [[Paper]](https://arxiv.org/abs/2111.11976) [[Code]](https://github.com/a4152684/KT-Net)
 
 - #### Public Datasets:
-  - WHU-TLS Dataset consists of 115 TLS scans collected from 11 different environments. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0924271620300836) [[Dataset]](http://3s.whu.edu.cn/ybs/en/benchmark.htm) 
+  - WHU-TLS Dataset consists of 115 TLS scans collected from 11 different scenarios. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0924271620300836) [[Dataset]](http://3s.whu.edu.cn/ybs/en/benchmark.htm) 
   - WHU-Helmet Dataset. [[Dataset]](https://github.com/kafeiyin00/WHU-HelmetDataset) 
