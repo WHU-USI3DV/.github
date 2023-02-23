@@ -11,7 +11,7 @@ We are Urban Spatial Intelligence (USI) Research Group at State Key Laboratory o
   - [ACM MM 2022] PC2-PU: Patch Correlation and Position Correction for Effective Point Cloud Upsampling [[Paper]](https://arxiv.org/abs/2109.09337)[[Code]](https://github.com/chenlongwhu/PC2-PU)
 
 - Point Cloud Completion:
-  - [AAAI 2023] 
+  - [AAAI 2023] KT-Net: Knowledge Transfer for Unpaired 3D Shape Completion [[Paper]](https://arxiv.org/abs/2111.11976)[[Code]](https://github.com/a4152684/KT-Net)
 
 - Public Datasets:
   - WHU-TLS Dataset consists of 115 TLS scans collected from 11 different environments. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0924271620300836)[[Dataset]](http://3s.whu.edu.cn/ybs/en/benchmark.htm) 
