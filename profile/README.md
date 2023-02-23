@@ -1,6 +1,6 @@
 ## Welcome to WHU-USI3DV :mortar_board: :wave:
 
-We are Urban Spatial Intelligence (USI) Research Group at State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University. We focus on 3D Computer Vision, particularly including 3D reconstruction, scene understanding, point cloud processing and their applications in intelligent transportation system, digital twin cities, urban sustainable development and robotics.
+We are Urban Spatial Intelligence (USI) Research Group at State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University. We focus on 3D Computer Vision, particularly including 3D reconstruction, scene understanding, point cloud processing as well as their applications in intelligent transportation system, digital twin cities, urban sustainable development, and robotics.
 ### Here are some of our previous projects:
 - #### Pairwise Point Cloud Registration: 
   - [ACM MM 2022] You Only Hypothesize Once: Point Cloud Registration with Rotation-equivariant Descriptors [[Paper]](https://arxiv.org/abs/2109.00182) [[Project]](https://hpwang-whu.github.io/YOHO/) [[Code]](https://github.com/HpWang-whu/YOHO)
