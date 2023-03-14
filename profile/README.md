@@ -9,6 +9,8 @@ We are Urban Spatial Intelligence (USI) Research Group at State Key Laboratory o
   - [ACM MM 2022] PC2-PU: Patch Correlation and Position Correction for Effective Point Cloud Upsampling [[Paper]](https://arxiv.org/abs/2109.09337) [[Code]](https://github.com/chenlongwhu/PC2-PU)
 - #### Point Cloud Completion:
   - [AAAI 2023] KT-Net: Knowledge Transfer for Unpaired 3D Shape Completion [[Paper]](https://arxiv.org/abs/2111.11976) [[Code]](https://github.com/a4152684/KT-Net)
+- #### Normal Estimation:
+  - [ICCV 2021 Oral] AdaFit: rethinking learning-based normal estimation on point clouds [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Zhu_AdaFit_Rethinking_Learning-Based_Normal_Estimation_on_Point_Clouds_ICCV_2021_paper.html) [[Code]](https://github.com/Runsong123/AdaFit)
 - #### Public Datasets:
   - WHU-TLS Dataset consists of 115 TLS scans collected from 11 different scenarios. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0924271620300836) [[Dataset]](http://3s.whu.edu.cn/ybs/en/benchmark.htm) 
   - WHU-Helmet Dataset. [[Dataset]](https://github.com/kafeiyin00/WHU-HelmetDataset) 
