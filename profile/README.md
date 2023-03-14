@@ -3,6 +3,7 @@
 We are Urban Spatial Intelligence (USI) Research Group at State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University. We focus on 3D Computer Vision, particularly including 3D reconstruction, scene understanding, point cloud processing as well as their applications in intelligent transportation system, digital twin cities, urban sustainable development, and robotics.
 ### Here are some of our previous projects:
 - #### Pairwise Point Cloud Registration: 
+  - [ISPRS J 2017] A novel binary shape context for 3D local surface description [[Paper]](https://www.sciencedirect.com/science/article/pii/S0924271617300199/pdfft?md5=3afb7ac12ecbfabb3dce81a8448718d2&pid=1-s2.0-S0924271617300199-main.pdf) [[Code]](https://github.com/YuePanEdward/GH-ICP)
   - [ACM MM 2022] You Only Hypothesize Once: Point Cloud Registration with Rotation-equivariant Descriptors [[Paper]](https://arxiv.org/abs/2109.00182) [[Project]](https://hpwang-whu.github.io/YOHO/) [[Code]](https://github.com/HpWang-whu/YOHO)
   - [TPAMI 2023] RoReg: Pairwise Point Cloud Registration with Oriented Descriptors and Local Rotations [[Paper]](https://doi.org/10.1109/TPAMI.2023.3244951) [[Project]](https://hpwang-whu.github.io/RoReg/) [[Code]](https://github.com/HpWang-whu/RoReg)
 - #### Point Cloud Upsampling:
