@@ -1,6 +1,6 @@
-<h3 align="center"> <p> 🎉 🎊 💡 WHU-USI3DV 🎓 👋 👏 </p></h3>
+<h2 align="center"> <p> 🎉 🎊 💡 WHU-USI3DV 🎓 👋 👏 </p></h2>
 
-We are Urban Spatial Intelligence (USI) Research Group at State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University. We focus on 3D Computer Vision, particularly including 3D reconstruction, scene understanding, point cloud processing as well as their applications in intelligent transportation system, digital twin cities, urban sustainable development, and robotics. Check our works by topics:
+We are Urban Spatial Intelligence (USI) Research Group at State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University. We focus on 3D Computer Vision, particularly including 3D reconstruction, scene understanding, point cloud processing as well as their applications in intelligent transportation system, digital twin cities, urban sustainable development, and robotics. Check our works by topic:
 
 |  ID     | Topic   | Projects |
 | :----:  | :---- | :---- |
