@@ -9,3 +9,4 @@ We are Urban Spatial Intelligence (USI) Research Group at State Key Laboratory o
 | III     | 🔗 Point Cloud Upsampling   | 📂[PC2-PU (ACM MM'22)](https://github.com/chenlongwhu/PC2-PU) |
 | IV      | 🔗 Point Cloud Completion   | 📂[KT-Net (AAAI'23)](https://github.com/a4152684/KT-Net) |
 | V       | 🔗 Normal Estimation        | 📂[AdaFit (ICCV'21)](https://github.com/Runsong123/AdaFit) |
+| VI      | 🔗 Object Detection         | 📂[AdaFit (JAG'23)](https://github.com/WHU-USI3DV/MENet) |
