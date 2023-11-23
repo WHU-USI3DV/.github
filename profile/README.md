@@ -1,14 +1,69 @@
 <h2 align="center"> <p> 🎉 🎊 💡 WHU-USI3DV 🎓 👋 👏 </p></h2>
 
-We are Urban Spatial Intelligence (USI) Research Group at State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University. We focus on 3D Computer Vision, particularly including 3D reconstruction, scene understanding, point cloud processing as well as their applications in intelligent transportation system, digital twin cities, urban sustainable development, and robotics. Check our works by topic:
+We are Urban Spatial Intelligence (USI) Research Group at the State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University. We focus on 3D Computer Vision, particularly including 3D reconstruction, scene understanding, and point cloud processing as well as their applications in intelligent transportation system, digital twin cities, urban sustainable development, and robotics. Check our works by topic:
 
-|  ID     | Topic   | Projects |
-| :----:  | :---- | :---- |
-| I       | 🔗 [Public Datasets](https://github.com/search?q=topic%3Adataset+org%3AWHU-USI3DV+fork%3Atrue&type=repositories)  | 📂[WHU-TLS](https://github.com/WHU-USI3DV/WHU-TLS) ; 📂[WHU-Helmet](https://github.com/kafeiyin00/WHU-HelmetDataset) ; 📂[WHU-Urban-3D](https://whu3d.com/) ; 📂[WHU-Railway3D](https://github.com/WHU-USI3DV/WHU-Railway3D)
-| II      | 🔗 [Point Cloud Registration](https://github.com/search?q=topic%3Apoint-cloud-registration+org%3AWHU-USI3DV+fork%3Atrue&type=repositories)  | 📂[BSC (ISPRS J'17)](https://github.com/YuePanEdward/GH-ICP/blob/master/include/binary_feature_extraction.hpp) ; 📂[YOHO (ACM MM'22)](https://github.com/HpWang-whu/YOHO) ; 📂[RoReg (TPAMI'23)](https://github.com/HpWang-whu/RoReg) ; 📂[SGHR (CVPR'23)](https://github.com/WHU-USI3DV/SGHR)
-| III     | 🔗 [Image-to-PC Reg](https://github.com/search?q=topic%3Aimage-to-point-cloud-registration+org%3AWHU-USI3DV&type=Repositories) | 📂[FreeReg (ArXiv'23)](https://github.com/WHU-USI3DV/FreeReg)
-| IV     | 🔗 Point Cloud Upsampling   | 📂[PC2-PU (ACM MM'22)](https://github.com/chenlongwhu/PC2-PU)
-| V      | 🔗 Point Cloud Completion   | 📂[KT-Net (AAAI'23)](https://github.com/a4152684/KT-Net)
-| VI       | 🔗 [Localization](https://github.com/search?q=topic%3Alocalization+org%3AWHU-USI3DV&type=Repositories)        | 📂[PatchAugNet ('23)](https://github.com/WHU-USI3DV/PatchAugNet)
-| VII       | 🔗 Normal Estimation        | 📂[AdaFit (ICCV'21)](https://github.com/Runsong123/AdaFit)
-| VIII      | 🔗 Object Detection         | 📂[ME-Net (JAG'23)](https://github.com/WHU-USI3DV/MENet)
+<details>
+  <summary><strong>Public datasets</strong> (click to expand):</summary>
+  
+  - 📂 [WHU-TLS](https://github.com/WHU-USI3DV/WHU-TLS) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/WHU-TLS.svg) : TLS PC registration benchmark covering 11 scenarios;
+  - 📂 [WHU-Helmet](https://github.com/kafeiyin00/WHU-HelmetDataset) ![Github stars](https://img.shields.io/github/stars/kafeiyin00/WHU-HelmetDataset.svg) : A helmet-based multi-sensor SLAM benchmark;
+  - 📂 [WHU-Urban-3D](https://whu3d.com/) : ALS/MLS semantic/instance segmentation benchmark;
+  - 📂 [WHU-Railway3D](https://github.com/WHU-USI3DV/WHU-Railway3D) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/WHU-Railway3D.svg) : Semantic segmentation benchmark for railway scenario;
+</details>
+
+<details>
+  <summary><strong>Point Cloud Registration</strong> (click to expand):</summary>
+  
+  - 📂 [BSC (ISPRS J'17)](https://github.com/YuePanEdward/GH-ICP/blob/master/include/binary_feature_extraction.hpp) ![Github stars](https://img.shields.io/github/stars/YuePanEdward/GH-ICP.svg) : A handcrafted point cloud local descriptor utilizing CPU;
+  - 📂 [YOHO (ACM MM'22)](https://github.com/HpWang-whu/YOHO) ![Github stars](https://img.shields.io/github/stars/HpWang-whu/YOHO.svg) : A learning-based point cloud local rotation-equivariant descriptor;
+  - 📂 [RoReg (TPAMI'23)](https://github.com/HpWang-whu/RoReg) ![Github stars](https://img.shields.io/github/stars/HpWang-whu/RoReg.svg) : Utilizing rotation-equivariance in the whole pipeline of pairwise registration;
+  - 📂 [SGHR (CVPR'23)](https://github.com/WHU-USI3DV/SGHR) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/SGHR.svg) : A simple multiview pc registration baseline;
+</details>
+
+<details>
+  <summary><strong>Image-to-point cloud Registration</strong> (click to expand):</summary>
+  
+  - 📂 [FreeReg (arXiv'23)](https://github.com/WHU-USI3DV/FreeReg) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/FreeReg.svg) : FreeReg extracts cross-modality features from pretrained diffusion models and monocular depth estimators for accurate zero-shot image-to-point cloud registration;
+</details>
+
+<details>
+  <summary><strong>Point Cloud Upsampling</strong> (click to expand):</summary>
+  
+  - 📂 [PC2-PU (ACM MM'22)](https://github.com/chenlongwhu/PC2-PU) ![Github stars](https://img.shields.io/github/stars/chenlongwhu/PC2-PU.svg) : A transformer-based point cloud upsampling baseline;
+</details>
+
+<details>
+  <summary><strong>Point Cloud Completion</strong> (click to expand):</summary>
+  
+  - 📂 [KT-Net (AAAI'23)](https://github.com/a4152684/KT-Net) ![Github stars](https://img.shields.io/github/stars/a4152684/KT-Net.svg) : A transformer-based point cloud completion baseline;
+</details>
+
+<details>
+  <summary><strong>Point Cloud Localization</strong> (click to expand):</summary>
+  
+  - 📂 [PatchAugNet (ISPRS J'23)](https://github.com/WHU-USI3DV/PatchAugNet) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/PatchAugNet.svg) : A cross-platform pc localization baseline;
+</details>
+
+<details>
+  <summary><strong>Normal Estimation</strong> (click to expand):</summary>
+  
+  - 📂 [AdaFit (ICCV'21)](https://github.com/Runsong123/AdaFit) ![Github stars](https://img.shields.io/github/stars/Runsong123/AdaFit.svg) : Rethinking pc normal estimation;
+</details>
+
+<details>
+  <summary><strong>Object Detection</strong> (click to expand):</summary>
+  
+  - 📂 [ME-Net (JAG'23)](https://github.com/WHU-USI3DV/MENet) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/MENet.svg) : Objection detection utilizing both image and Lidar from mobile platform;
+</details>
+
+<details>
+  <summary><strong>Point Cloud Semantic Segmentation</strong> (click to expand):</summary>
+  
+  - 📂 [Mobile-Seed (arXiv'23)](https://github.com/WHU-USI3DV/Mobile-Seed) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/Mobile-Seed.svg) : Simultaneously enhance PC segmentation and boundary detection;
+</details>
+
+
+
+
+
+
