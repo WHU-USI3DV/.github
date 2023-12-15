@@ -63,7 +63,11 @@ We are Urban Spatial Intelligence (USI) Research Group at the State Key Laborato
   - 📂 [Mobile-Seed (arXiv'23)](https://github.com/WHU-USI3DV/Mobile-Seed) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/Mobile-Seed.svg) : Simultaneously enhance PC segmentation and boundary detection;
 </details>
 
-
+<details>
+  <summary><strong>Urban Sustainable Development </strong> (click to expand):</summary>
+  
+  - 📂 [3DBIE-SolarPV (Under Review)](https://github.com/WHU-USI3DV/3DBIE-SolarPV) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/3DBIE-SolarPV.svg) : City-scale solar PV potential estimation on 3D buildings using multi-source RS data: A case study in Wuhan, China;
+</details>
 
 
 
