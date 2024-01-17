@@ -24,7 +24,7 @@ We are Urban Spatial Intelligence (USI) Research Group at the State Key Laborato
 <details>
   <summary><strong>Image-to-point cloud Registration</strong> (click to expand):</summary>
   
-  - 📂 [FreeReg (arXiv'23)](https://github.com/WHU-USI3DV/FreeReg) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/FreeReg.svg) : FreeReg extracts cross-modality features from pretrained diffusion models and monocular depth estimators for accurate zero-shot image-to-point cloud registration;
+  - 📂 [FreeReg (ICLR'24)](https://github.com/WHU-USI3DV/FreeReg) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/FreeReg.svg) : FreeReg extracts cross-modality features from pretrained diffusion models and monocular depth estimators for accurate zero-shot image-to-point cloud registration;
 </details>
 
 <details>
