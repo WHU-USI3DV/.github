@@ -61,7 +61,7 @@ We are Urban Spatial Intelligence (USI) Research Group at the State Key Laborato
 <details>
   <summary><strong>Image / Point Cloud Semantic Segmentation</strong> (click to expand):</summary>
   
-  - 📂 [Mobile-Seed (arXiv'23)](https://github.com/WHU-USI3DV/Mobile-Seed) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/Mobile-Seed.svg) : Simultaneously enhance segmentation and boundary detection of images;
+  - 📂 [Mobile-Seed (arXiv'23)](https://github.com/WHU-USI3DV/Mobile-Seed) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/Mobile-Seed.svg) : An online framework for simultaneous semantic segmentation and boundary detection on compact robots;
 </details>
 
 <details>
