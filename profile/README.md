@@ -67,7 +67,7 @@ We are Urban Spatial Intelligence (USI) Research Group at the State Key Laborato
 <details>
   <summary><strong> Urban Morphology & Sustainable Development </strong> (click to expand):</summary>
   
-  - 📂 [3DBIE-SolarPV (Under Review)](https://github.com/WHU-USI3DV/3DBIE-SolarPV) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/3DBIE-SolarPV.svg) : City-scale solar PV potential estimation on 3D buildings using multi-source RS data: A case study in Wuhan, China;
+  - 📂 [3DBIE-SolarPV (Applied Energy‘24)](https://github.com/WHU-USI3DV/3DBIE-SolarPV) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/3DBIE-SolarPV.svg) : City-scale solar PV potential estimation on 3D buildings using multi-source RS data: A case study in Wuhan, China;
 </details>
 
 
