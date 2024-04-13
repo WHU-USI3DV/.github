@@ -18,7 +18,7 @@ We are Urban Spatial Intelligence (USI) Research Group at the State Key Laborato
   - 📂 [YOHO (ACM MM'22)](https://github.com/HpWang-whu/YOHO) ![Github stars](https://img.shields.io/github/stars/HpWang-whu/YOHO.svg) : A learning-based point cloud local rotation-equivariant descriptor;
   - 📂 [RoReg (TPAMI'23)](https://github.com/HpWang-whu/RoReg) ![Github stars](https://img.shields.io/github/stars/HpWang-whu/RoReg.svg) : Utilizing rotation-equivariance in the whole pipeline of pairwise registration;
   - 📂 [SGHR (CVPR'23)](https://github.com/WHU-USI3DV/SGHR) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/SGHR.svg) : A simple multiview pc registration baseline;
-  - 📂 [MSReg (Under Review)](https://github.com/WHU-USI3DV/MSReg) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/MSReg.svg) : Fast 4DOF registration of MLS and stereo point clouds;
+  - 📂 [MSReg (IEEE TGRS'24)](https://github.com/WHU-USI3DV/MSReg) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/MSReg.svg) : Fast 4DOF registration of MLS and stereo point clouds;
 </details>
 
 <details>
