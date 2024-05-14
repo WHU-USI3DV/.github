@@ -26,6 +26,7 @@ We are Urban Spatial Intelligence (USI) Research Group at the State Key Laborato
   
   - 📂 [FreeReg (ICLR'24)](https://github.com/WHU-USI3DV/FreeReg) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/FreeReg.svg) : FreeReg extracts cross-modality features from pretrained diffusion models and monocular depth estimators for accurate zero-shot image-to-point cloud registration;
 </details>
+  - 📂 [CoFiI2P (Arxiv'23)](https://github.com/WHU-USI3DV/CoFiI2P) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/CoFiI2P.svg) : CoFiI2P is a coarse-to-fine framework for image-to-point cloud registration task.
 
 <details>
   <summary><strong>Point Cloud Upsampling</strong> (click to expand):</summary>
@@ -37,7 +38,7 @@ We are Urban Spatial Intelligence (USI) Research Group at the State Key Laborato
   <summary><strong>Point Cloud / Depth Completion</strong> (click to expand):</summary>
   
   - 📂 [KT-Net (AAAI'23)](https://github.com/a4152684/KT-Net) ![Github stars](https://img.shields.io/github/stars/a4152684/KT-Net.svg) : A transformer-based point cloud completion baseline;
-  - 📂 [SparseDC (arXiv'23)](https://github.com/WHU-USI3DV/SparseDC) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/SparseDC.svg) : Depth Completion from sparse and non-uniform inputs;
+  - 📂 [SparseDC (Information Fusion'24)](https://github.com/WHU-USI3DV/SparseDC) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/SparseDC.svg) : Depth Completion from sparse and non-uniform inputs;
 </details>
 
 <details>
