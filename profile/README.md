@@ -39,6 +39,7 @@ We are Urban Spatial Intelligence (USI) Research Group at the State Key Laborato
   
   - 📂 [KT-Net (AAAI'23)](https://github.com/a4152684/KT-Net) ![Github stars](https://img.shields.io/github/stars/a4152684/KT-Net.svg) : A transformer-based point cloud completion baseline;
   - 📂 [SparseDC (Information Fusion'24)](https://github.com/WHU-USI3DV/SparseDC) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/SparseDC.svg) : Depth Completion from sparse and non-uniform inputs;
+  - 📂 [EGIInet (ECCV'24)](https://github.com/WHU-USI3DV/EGIInet) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/EGIInet.svg) : Single view image guided point cloud completion framework;
 </details>
 
 <details>
