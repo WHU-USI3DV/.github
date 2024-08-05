@@ -10,7 +10,7 @@ We are Urban Spatial Intelligence (USI) Research Group at the State Key Laborato
   - Academic Advisors
     - [Yuan Liu (刘缘)](https://liuyuan-pal.github.io/): Incoming Assistant Professor at HKUST;
   - Activate Members
-    - [Haiping Wang (王海平)](https://hpwang-whu.github.io/): Ph.D. student at LIESMARS, Wuhan University, interested in 3D reconstruction, 3D understanding, and 3D Large Language Models;
+    - [Haiping Wang (王海平)](https://hpwang-whu.github.io/): Ph.D. student at LIESMARS, interested in 3D reconstruction/understanding/LLM;
 </details>
 
 <details>
