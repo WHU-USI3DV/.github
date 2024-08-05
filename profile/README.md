@@ -5,7 +5,7 @@ We are Urban Spatial Intelligence (USI) Research Group at the State Key Laborato
 <details>
   <summary><strong>Our Team</strong> (click to expand):</summary>
   
-  - Lab Leaders
+  - Lab Leader
     - [Zhen Dong (董震)](https://dongzhenwhu.github.io/index.html): Professor and the head of 3S (GNSS/RS/GIS) integration department in the LIESMARS, Wuhan University.
   - Academic Advisors
     - [Yuan Liu (刘缘)](https://liuyuan-pal.github.io/): Incoming Assistant Professor at HKUST;
