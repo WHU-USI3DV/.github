@@ -3,6 +3,17 @@
 We are Urban Spatial Intelligence (USI) Research Group at the State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University. We focus on 3D Computer Vision, particularly including 3D reconstruction, scene understanding, and point cloud processing as well as their applications in intelligent transportation system, digital twin cities, urban sustainable development, and robotics. Check our works by topic:
 
 <details>
+  <summary><strong>Our Team</strong> (click to expand):</summary>
+  
+  - Lab Leaders
+    - [Zhen Dong (董震)](https://dongzhenwhu.github.io/index.html): Professor and the head of 3S (GNSS/RS/GIS) integration department in the LIESMARS, Wuhan University.
+  - Academic Advisors
+    - [Yuan Liu (刘缘)](https://liuyuan-pal.github.io/): Incoming Assistant Professor at HKUST;
+  - Activate Members
+    - [Haiping Wang (王海平)](https://hpwang-whu.github.io/): Ph.D. student at LIESMARS, Wuhan University, interested in 3D reconstruction, 3D understanding, and 3D Large Language Models;
+</details>
+
+<details>
   <summary><strong>Public datasets</strong> (click to expand):</summary>
   
   - 📂 [WHU-TLS](https://github.com/WHU-USI3DV/WHU-TLS) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/WHU-TLS.svg) : TLS PC registration benchmark covering 11 scenarios;
