@@ -8,9 +8,10 @@ We are Urban Spatial Intelligence (USI) Research Group at the State Key Laborato
   - Lab Leader
     - [Zhen Dong (董震)](https://dongzhenwhu.github.io/index.html): Professor and the head of 3S (GNSS/RS/GIS) integration department in the LIESMARS, Wuhan University.
   - Academic Advisors
-    - [Yuan Liu (刘缘)](https://liuyuan-pal.github.io/): Incoming Assistant Professor at HKUST;
+    - [Yuan Liu (刘缘)](https://liuyuan-pal.github.io/): Incoming Assistant Professor at HKUST, working on 3D AIGC including neural rendering, neural representations, and 3D generative models;
   - Activate Members
-    - [Haiping Wang (王海平)](https://hpwang-whu.github.io/): Ph.D. student at LIESMARS, interested in 3D reconstruction/understanding/LLM;
+    - [Xianghong Zou (邹响红)]( https://zouxianghong.github.io/): PhD student in LIESMARS. Research interest lies in the field of 3D Computer Vision, particularly including point cloud localization and 3D change detection.
+    - [Haiping Wang (王海平)](https://hpwang-whu.github.io/): Ph.D. student at LIESMARS, interested in 3D reconstruction, 3D understanding, and 3D LLM;
 </details>
 
 <details>
