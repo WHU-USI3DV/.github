@@ -5,8 +5,10 @@ We are Urban Spatial Intelligence (USI) Research Group at the State Key Laborato
 <details>
   <summary><strong>Our Team</strong> (click to expand):</summary>
   
-  - Lab Leader
+  - Lab Leaders
+    - [Bisheng Yang(杨必胜)](https://3s.whu.edu.cn/ybs/index.htm): Professor and the head of LIESMARS, Wuhan University.
     - [Zhen Dong (董震)](https://dongzhenwhu.github.io/index.html): Professor and the head of 3S (GNSS/RS/GIS) integration department in the LIESMARS, Wuhan University.
+    - [Chi Chen (陈驰)](https://liesmars.whu.edu.cn/info/1168/6018.htm): Associate professor at LIESMARS, Wuhan University.
   - Academic Advisors
     - [Yuan Liu (刘缘)](https://liuyuan-pal.github.io/): Incoming Assistant Professor at HKUST, working on 3D AIGC including neural rendering, neural representations, and 3D generative models.
     - [Xiaoxin Mi (米晓新)](https://mixiaoxin.github.io/): PostDoc at Wuhan University of Technology, working on scene understanding and modeling and intelligent transportation system.
