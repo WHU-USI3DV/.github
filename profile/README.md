@@ -22,20 +22,21 @@ We are Urban Spatial Intelligence (USI) Research Group at the State Key Laborato
 <details>
   <summary><strong>Public datasets</strong> (click to expand):</summary>
   
-  - 📂 [WHU-TLS](https://github.com/WHU-USI3DV/WHU-TLS) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/WHU-TLS.svg) : TLS PC registration benchmark covering 11 scenarios;
-  - 📂 [WHU-Helmet](https://github.com/kafeiyin00/WHU-HelmetDataset) ![Github stars](https://img.shields.io/github/stars/kafeiyin00/WHU-HelmetDataset.svg) : A helmet-based multi-sensor SLAM benchmark;
+  - 📂 [WHU-TLS](https://github.com/WHU-USI3DV/WHU-TLS) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/WHU-TLS.svg): TLS PC registration benchmark covering 11 scenarios;
+  - 📂 [WHU-Helmet](https://github.com/kafeiyin00/WHU-HelmetDataset) ![Github stars](https://img.shields.io/github/stars/kafeiyin00/WHU-HelmetDataset.svg): A helmet-based multi-sensor SLAM benchmark;
   - 📂 [WHU-Urban-3D](https://whu3d.com/) : ALS/MLS semantic/instance segmentation benchmark;
-  - 📂 [WHU-Railway3D](https://github.com/WHU-USI3DV/WHU-Railway3D) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/WHU-Railway3D.svg) : Semantic segmentation benchmark for railway scenario;
+  - 📂 [WHU-Railway3D](https://github.com/WHU-USI3DV/WHU-Railway3D) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/WHU-Railway3D.svg): Semantic segmentation benchmark for railway scenario;
+  - 📂 [LaneMapping](https://github.com/WHU-USI3DV/LaneMapping) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/LaneMapping.svg): A Benchmark Approach and Dataset for Large-scale Lane Mapping from MLS Point Clouds;
 </details>
 
 <details>
   <summary><strong>Point Cloud Registration</strong> (click to expand):</summary>
   
-  - 📂 [BSC (ISPRS J'17)](https://github.com/YuePanEdward/GH-ICP/blob/master/include/binary_feature_extraction.hpp) ![Github stars](https://img.shields.io/github/stars/YuePanEdward/GH-ICP.svg) : A handcrafted point cloud local descriptor utilizing CPU;
-  - 📂 [YOHO (ACM MM'22)](https://github.com/HpWang-whu/YOHO) ![Github stars](https://img.shields.io/github/stars/HpWang-whu/YOHO.svg) : A learning-based point cloud local rotation-equivariant descriptor;
-  - 📂 [RoReg (TPAMI'23)](https://github.com/HpWang-whu/RoReg) ![Github stars](https://img.shields.io/github/stars/HpWang-whu/RoReg.svg) : Utilizing rotation-equivariance in the whole pipeline of pairwise registration;
-  - 📂 [SGHR (CVPR'23)](https://github.com/WHU-USI3DV/SGHR) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/SGHR.svg) : A simple multiview pc registration baseline;
-  - 📂 [MSReg (IEEE TGRS'24)](https://github.com/WHU-USI3DV/MSReg) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/MSReg.svg) : Fast 4DOF registration of MLS and stereo point clouds;
+  - 📂 [BSC (ISPRS J'17)](https://github.com/YuePanEdward/GH-ICP/blob/master/include/binary_feature_extraction.hpp) ![Github stars](https://img.shields.io/github/stars/YuePanEdward/GH-ICP.svg): A handcrafted point cloud local descriptor utilizing CPU;
+  - 📂 [YOHO (ACM MM'22)](https://github.com/HpWang-whu/YOHO) ![Github stars](https://img.shields.io/github/stars/HpWang-whu/YOHO.svg): A learning-based point cloud local rotation-equivariant descriptor;
+  - 📂 [RoReg (TPAMI'23)](https://github.com/HpWang-whu/RoReg) ![Github stars](https://img.shields.io/github/stars/HpWang-whu/RoReg.svg): Utilizing rotation-equivariance in the whole pipeline of pairwise registration;
+  - 📂 [SGHR (CVPR'23)](https://github.com/WHU-USI3DV/SGHR) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/SGHR.svg): A simple multiview pc registration baseline;
+  - 📂 [MSReg (IEEE TGRS'24)](https://github.com/WHU-USI3DV/MSReg) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/MSReg.svg): Fast 4DOF registration of MLS and stereo point clouds;
 </details>
 
 <details>
