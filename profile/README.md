@@ -26,7 +26,7 @@ We are Urban Spatial Intelligence (USI) Research Group at the State Key Laborato
   - 📂 [WHU-Helmet](https://github.com/kafeiyin00/WHU-HelmetDataset) ![Github stars](https://img.shields.io/github/stars/kafeiyin00/WHU-HelmetDataset.svg): A helmet-based multi-sensor SLAM benchmark;
   - 📂 [WHU-Urban-3D](https://whu3d.com/) : ALS/MLS semantic/instance segmentation benchmark;
   - 📂 [WHU-Railway3D](https://github.com/WHU-USI3DV/WHU-Railway3D) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/WHU-Railway3D.svg): Semantic segmentation benchmark for railway scenario;
-  - 📂 [LaneMapping](https://github.com/WHU-USI3DV/LaneMapping) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/LaneMapping.svg): A Benchmark Approach and Dataset for Large-scale Lane Mapping from MLS Point Clouds;
+  - 📂 [WHU-Lane](https://github.com/WHU-USI3DV/LaneMapping) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/LaneMapping.svg): A Benchmark Approach and Dataset for Large-scale Lane Mapping from MLS Point Clouds;
 </details>
 
 <details>
