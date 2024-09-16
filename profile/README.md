@@ -91,6 +91,12 @@ We are Urban Spatial Intelligence (USI) Research Group at the State Key Laborato
   - 📂 [3DBIE-SolarPV (Applied Energy‘24)](https://github.com/WHU-USI3DV/3DBIE-SolarPV) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/3DBIE-SolarPV.svg) : City-scale solar PV potential estimation on 3D buildings using multi-source RS data: A case study in Wuhan, China;
 </details>
 
+<details>
+  <summary><strong> HDMap </strong> (click to expand):</summary>
+  
+  - 📂 [LaneMapping](https://github.com/WHU-USI3DV/LaneMapping) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/LaneMapping.svg): A Benchmark Approach and Dataset for Large-scale Lane Mapping from MLS Point Clouds;
+</details>
+
 
 
 
