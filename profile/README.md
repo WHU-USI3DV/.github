@@ -20,7 +20,7 @@ We are Urban Spatial Intelligence (USI) Research Group at the State Key Laborato
     - [Zhen Cao (曹臻)](https://a4152684.github.io/) PHD student at LIESMARS, interested in point cloud completion, scene understanding
     - [Youqi Liao (廖有祺)](https://chenlongwhu.github.io/) Master student at LIESMARS, focus on visual localization and place recognition.
     - [Hang Xu (徐航)](https://xuhang0806.github.io/) Master student student at LIESMARS, interested in point cloud generation and completion, 3D edit.
-    - [Yuning Peng (徐航)](https://pz0826.github.io/) Master student student at LIESMARS, interested in 3D scene understanding, 3D reconstruction, and 3D large language models (LLMs).
+    - [Yuning Peng (彭昱宁)](https://pz0826.github.io/) Master student student at LIESMARS, interested in 3D scene understanding, 3D reconstruction, and 3D large language models (LLMs).
     - 
 </details>
 
