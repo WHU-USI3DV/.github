@@ -17,11 +17,11 @@ We are Urban Spatial Intelligence (USI) Research Group at the State Key Laborato
     - [Xianghong Zou (邹响红)]( https://zouxianghong.github.io/): PhD student in LIESMARS. Research interest lies in the field of 3D Computer Vision, particularly including point cloud localization and 3D change detection.
     - [Haiping Wang (王海平)](https://hpwang-whu.github.io/): Ph.D. student at LIESMARS, interested in 3D reconstruction, 3D understanding, and 3D LLM.
     - [Chen Long (龙宸)](https://chenlongwhu.github.io/) PHD student at LIESMARS, interested in point cloud enhancement, 3D shape restoration, urban sustainable development.
-    - [Zhen Cao (曹臻)](https://a4152684.github.io/) PHD student at LIESMARS, interested in point cloud completion, scene understanding
+    - [Zhen Cao (曹臻)](https://a4152684.github.io/) PHD student at LIESMARS, interested in point cloud completion, scene understanding.  
     - [Youqi Liao (廖有祺)](https://chenlongwhu.github.io/) Master student at LIESMARS, focus on visual localization and place recognition.
     - [Hang Xu (徐航)](https://xuhang0806.github.io/) Master student student at LIESMARS, interested in point cloud generation and completion, 3D edit.
     - [Yuning Peng (彭昱宁)](https://pz0826.github.io/) Master student student at LIESMARS, interested in 3D scene understanding, 3D reconstruction, and 3D large language models (LLMs).
-    - 
+    - [Yizhe Zhang (张奕喆)](https://yizhezhang0418.github.io/) Master student student at LIESMARS, interested in Robotics, especially in 3D Reconstruction and Automatic Control.
 </details>
 
 <details>
