@@ -4,25 +4,40 @@ We are Urban Spatial Intelligence (USI) Research Group at the State Key Laborato
 
 <details>
   <summary><strong>Our Team</strong> (click to expand):</summary>
-  
-  - Lab Leaders
-    - [Bisheng Yang(杨必胜)](https://3s.whu.edu.cn/ybs/index.htm): Professor and the head of LIESMARS, Wuhan University.
-    - [Zhen Dong (董震)](https://dongzhenwhu.github.io/index.html): Professor and the head of 3S (GNSS/RS/GIS) integration department in the LIESMARS, Wuhan University.
-    - [Chi Chen (陈驰)](https://liesmars.whu.edu.cn/info/1168/6018.htm): Associate professor at LIESMARS, Wuhan University.
-  - Academic Advisors
-    - [Yuan Liu (刘缘)](https://liuyuan-pal.github.io/): Incoming Assistant Professor at HKUST, working on 3D AIGC including neural rendering, neural representations, and 3D generative models.
-    - [Xiaoxin Mi (米晓新)](https://mixiaoxin.github.io/): PostDoc at Wuhan University of Technology, working on scene understanding and modeling and intelligent transportation system.
-  - Activate Members
-    - [Yuhao Li (李雨昊)](https://whu-lyh.github.io/): PhD student in LIESMARS. Research interests include Mobile Laser Scanning Point Cloud, LiDAR SLAM, Multi-modality Fusion, Place Recognition, Retrieval and Localization. 
-    - [Xianghong Zou (邹响红)]( https://zouxianghong.github.io/): PhD student in LIESMARS. Research interest lies in the field of 3D Computer Vision, particularly including point cloud localization and 3D change detection.
-    - [Haiping Wang (王海平)](https://hpwang-whu.github.io/): Ph.D. student at LIESMARS, interested in 3D reconstruction, 3D understanding, and 3D LLM.
-    - [Xin Zhao (赵昕)](https://xinzhaodc.github.io/):  Ph.D. student at the School of Computer Science, Wuhan University, interested in robot mapping and positioning, such as LiDAR SLAM, Place Recognition and Localization..
-    - [Chen Long (龙宸)](https://chenlongwhu.github.io/) PHD student at LIESMARS, interested in point cloud enhancement, 3D shape restoration, urban sustainable development.
-    - [Zhen Cao (曹臻)](https://a4152684.github.io/) PHD student at LIESMARS, interested in point cloud completion, scene understanding.  
-    - [Youqi Liao (廖有祺)](https://martin-liao.github.io/) Master student at LIESMARS, focus on visual localization and place recognition.
-    - [Hang Xu (徐航)](https://xuhang0806.github.io/) Master student student at LIESMARS, interested in point cloud generation and completion, 3D edit.
-    - [Yuning Peng (彭昱宁)](https://pz0826.github.io/) Master student student at LIESMARS, interested in 3D scene understanding, 3D reconstruction, and 3D large language models (LLMs).
-    - [Yizhe Zhang (张奕喆)](https://yizhezhang0418.github.io/) Master student student at LIESMARS, interested in Robotics, especially in 3D Reconstruction and Automatic Control.
+
+- **Lab Leaders**
+    | Name                           | Role                                      |
+    |--------------------------------|-------------------------------------------|
+    | [Bisheng Yang](https://3s.whu.edu.cn/ybs/index.htm) | Professor, Head of LIESMARS, Wuhan University |
+    | [Zhen Dong](https://dongzhenwhu.github.io/index.html) | Professor, Head of 3S Integration, Wuhan University   |
+    | [Chi Chen](https://liesmars.whu.edu.cn/info/1168/6018.htm) | Associate Professor, Wuhan University |
+
+- **Academic Advisors**
+    | Name                           | Role                                      |
+    |--------------------------------|-------------------------------------------|
+    | [Yuan Liu](https://liuyuan-pal.github.io/) | Assistant Professor, Hong Kong University of Science and Technology          |
+    | [Bing Wang](https://bingcs.github.io/) | Assistant Professor, Hong Kong Polytechnic University      |
+    | [Wenxia Dai](https://scholar.google.com/citations?user=Pg3xGSUAAAAJ&hl=en) | Associate Professor, China University of Geosciences(Wuhan)          |
+    | [Jianping Li](https://scholar.google.com.sg/citations?user=sewmV-oAAAAJ&hl=en) | PostDoc, Nanyang Technological University          |
+    | [Fuxun Liang](https://scholar.google.com/citations?user=0Ds4eg8AAAAJ&hl=zh-CN) | PostDoc, Wuhan University      |
+    | [Ningning Zhu]() | PostDoc, Wuhan University      |
+
+-  **Active Members**
+    | Name                           | Role                 | Research Interests                                                                  |
+    |--------------------------------|----------------------|-------------------------------------------------------------------------------------|
+    | [Yuhao Li](https://whu-lyh.github.io/) | Ph.D. student, Wuhan University | LiDAR SLAM, Multi-modality Fusion                            |
+    | [Xianghong Zou](https://zouxianghong.github.io/) | Ph.D. student, Wuhan University | Point Cloud Localization, 3D Change Detection                  |
+    | [Haiping Wang](https://hpwang-whu.github.io/) | Ph.D. student, Wuhan University | 3D Reconstruction / Understanding / LLM                   |
+    | [Xin Zhao](https://xinzhaodc.github.io/) | Ph.D. student, Wuhan University | Robot Mapping, LiDAR SLAM, Localization                      |
+    | [Chen Long](https://chenlongwhu.github.io/) | Ph.D. student, Wuhan University | PC Enhancement, Urban Sustainable Development       |
+    | [Zhen Cao](https://a4152684.github.io/) | Ph.D. student, Wuhan University | PC  Completion, Scene Understanding                                        |
+    | [Bo Qiu](https://boqiuphd.github.io/) | M.S. student, Wuhan University | Scene Understanding, intelligent transportation systems                                        |
+    | [Youqi Liao](https://martin-liao.github.io/) | M.S. student, Wuhan University | Visual Localization, Place Recognition                                             |
+    | [Hang Xu](https://xuhang0806.github.io/) | M.S. student, Wuhan University | Point Cloud Generation / Completion / Editing                        |
+    | [Yuning Peng](https://pz0826.github.io/) | M.S. student, Wuhan University | 3D Reconstruction / Understanding / LLM               |
+    | [Yizhe Zhang](https://yizhezhang0418.github.io/) | M.S. student, Wuhan University | Robotics, 3D Reconstruction, Automatic Control                                     |
+ 
+
 </details>
 
 <details>
