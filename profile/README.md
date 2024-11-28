@@ -36,6 +36,7 @@ We are Urban Spatial Intelligence (USI) Research Group at the State Key Laborato
     | [Hang Xu](https://xuhang0806.github.io/) | M.S. student, Wuhan University | Point Cloud Generation / Completion / Editing                        |
     | [Yuning Peng](https://pz0826.github.io/) | M.S. student, Wuhan University | 3D Reconstruction / Understanding / LLM               |
     | [Yizhe Zhang](https://yizhezhang0418.github.io/) | M.S. student, Wuhan University | Robotics, 3D Reconstruction, Automatic Control                                     |
+    | [Qingwen Tan](https://whu-lyh.github.io/) | M.S. student, Wuhan University | Semantic Segmentation, Diffusion Models                                     |
  
 
 </details>
