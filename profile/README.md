@@ -31,6 +31,7 @@ We are Urban Spatial Intelligence (USI) Research Group at the State Key Laborato
     | [Xin Zhao](https://xinzhaodc.github.io/) | Ph.D. student, Wuhan University | Robot Mapping, LiDAR SLAM, Localization                      |
     | [Chen Long](https://chenlongwhu.github.io/) | Ph.D. student, Wuhan University | PC Enhancement, Urban Sustainable Development       |
     | [Zhen Cao](https://a4152684.github.io/) | Ph.D. student, Wuhan University | PC  Completion, Scene Understanding                                        |
+    | [Chong Liu](https://liuchong-911.github.io/) | Ph.D. student, Wuhan University | Scene Understanding, Intelligent Transportation                                        |
     | [Bo Qiu](https://boqiuphd.github.io/) | M.S. student, Wuhan University | Scene Understanding, intelligent transportation systems                                        |
     | [Youqi Liao](https://martin-liao.github.io/) | M.S. student, Wuhan University | Visual Localization, Place Recognition                                             |
     | [Hang Xu](https://xuhang0806.github.io/) | M.S. student, Wuhan University | Point Cloud Generation / Completion / Editing                        |
