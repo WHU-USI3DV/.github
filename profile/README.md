@@ -20,6 +20,7 @@ We are Urban Spatial Intelligence (USI) Research Group at the State Key Laborato
     | [Wenxia Dai](https://scholar.google.com/citations?user=Pg3xGSUAAAAJ&hl=en) | Associate Professor, China University of Geosciences(Wuhan)          |
     | [Jianping Li](https://scholar.google.com.sg/citations?user=sewmV-oAAAAJ&hl=en) | PostDoc, Nanyang Technological University          |
     | [Fuxun Liang](https://scholar.google.com/citations?user=0Ds4eg8AAAAJ&hl=zh-CN) | PostDoc, Wuhan University      |
+    | [Xiaoxin Mi](https://mixiaoxin.github.io/) | PostDoc, Wuhan University of Technology      |
     | [Ningning Zhu]() | PostDoc, Wuhan University      |
 
 -  **Active Members**
