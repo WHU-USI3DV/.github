@@ -28,6 +28,7 @@ We are Urban Spatial Intelligence (USI) Research Group at the State Key Laborato
     |--------------------------------|----------------------|-------------------------------------------------------------------------------------|
     | [Yuhao Li](https://whu-lyh.github.io/) | Ph.D. student, Wuhan University | LiDAR SLAM, Multi-modality Fusion                            |
     | [Xianghong Zou](https://zouxianghong.github.io/) | Ph.D. student, Wuhan University | Point Cloud Localization, 3D Change Detection                  |
+    | [Luqi Zhang](https://zhangluqi0209.github.io/) | Ph.D. student, Wuhan University | 3D change detection / point cloud segmentation                   |
     | [Haiping Wang](https://hpwang-whu.github.io/) | Ph.D. student, Wuhan University | 3D Reconstruction / Understanding / LLM                   |
     | [Zhe Chen](https://chenzhe-code.github.io/) | Ph.D. student, Wuhan University | Scene Understanding, 3D Urban Morphology                   |
     | [Xin Zhao](https://xinzhaodc.github.io/) | Ph.D. student, Wuhan University | Robot Mapping, LiDAR SLAM, Localization                      |
