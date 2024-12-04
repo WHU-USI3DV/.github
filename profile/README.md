@@ -93,10 +93,11 @@ We are Urban Spatial Intelligence (USI) Research Group at the State Key Laborato
 </details>
 
 <details>
-  <summary><strong>Point Cloud Localization</strong> (click to expand):</summary>
+  <summary><strong>Visual Localization</strong> (click to expand):</summary>
   
   - 📂 [PatchAugNet (ISPRS J'23)](https://github.com/WHU-USI3DV/PatchAugNet) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/PatchAugNet.svg) : A cross-platform pc localization baseline;
   - 📂 [LAWS (ISPRS J'24)](https://github.com/WHU-USI3DV/LAWS) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/LAWS.svg) : Regard point cloud localization as a classification problem;
+  - 📂 [OSMLoc (ArXiv'24)](https://github.com/WHU-USI3DV/OSMLoc) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/OSMLoc.svg) : An image-to-OpenstreetMap (I2O) visual localization framework;
 </details>
 
 <details>
