@@ -35,6 +35,7 @@ We are Urban Spatial Intelligence (USI) Research Group at the State Key Laborato
     | [Zhen Cao](https://a4152684.github.io/) | Ph.D. student, Wuhan University | PC  Completion, Scene Understanding                                        |
     | [Luqi Zhang](https://zhangluqi0209.github.io/) | Ph.D. student, Wuhan University | 3D change detection / point cloud segmentation                   |
     | [Chong Liu](https://liuchong-911.github.io/) | Ph.D. student, Wuhan University | Scene Understanding, Intelligent Transportation                                        |
+    | [Xiaochen Yang](https://xc-young.github.io/) | Ph.D. student, Wuhan University | Point Cloud Registration                                        |
     | [Bo Qiu](https://boqiuphd.github.io/) | M.S. student, Wuhan University | Scene Understanding, intelligent transportation systems                                        |
     | [Youqi Liao](https://martin-liao.github.io/) | M.S. student, Wuhan University | Visual Localization, Place Recognition                                             |
     | [Hang Xu](https://xuhang0806.github.io/) | M.S. student, Wuhan University | Point Cloud Generation / Completion / Editing                        |
