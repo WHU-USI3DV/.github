@@ -76,7 +76,7 @@ We are Urban Spatial Intelligence (USI) Research Group at the State Key Laborato
 <details>
   <summary><strong>3D Generation</strong> (click to expand):</summary>
   
-  - 📂 [VistaDream](https://github.com/WHU-USI3DV/VistaDream) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/VistaDream.svg): VistaDream is a training-free framework to reconstruct a high-quality 3D scene from a single-view image;
+  - 📂 [VistaDream (arXiv'24)](https://github.com/WHU-USI3DV/VistaDream) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/VistaDream.svg): VistaDream is a training-free framework to reconstruct a high-quality 3D scene from a single-view image;
 </details>
 
 <details>
@@ -98,7 +98,7 @@ We are Urban Spatial Intelligence (USI) Research Group at the State Key Laborato
   
   - 📂 [PatchAugNet (ISPRS J'23)](https://github.com/WHU-USI3DV/PatchAugNet) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/PatchAugNet.svg) : A cross-platform pc localization baseline;
   - 📂 [LAWS (ISPRS J'24)](https://github.com/WHU-USI3DV/LAWS) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/LAWS.svg) : Regard point cloud localization as a classification problem;
-  - 📂 [OSMLoc (ArXiv'24)](https://github.com/WHU-USI3DV/OSMLoc) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/OSMLoc.svg) : An image-to-OpenstreetMap (I2O) visual localization framework;
+  - 📂 [OSMLoc (arXiv'24)](https://github.com/WHU-USI3DV/OSMLoc) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/OSMLoc.svg) : An image-to-OpenstreetMap (I2O) visual localization framework;
 </details>
 
 <details>
@@ -108,15 +108,11 @@ We are Urban Spatial Intelligence (USI) Research Group at the State Key Laborato
 </details>
 
 <details>
-  <summary><strong>Object Detection</strong> (click to expand):</summary>
-  
-  - 📂 [ME-Net (JAG'23)](https://github.com/WHU-USI3DV/MENet) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/MENet.svg) : Objection detection utilizing both image and Lidar from mobile platform;
-</details>
+  <summary><strong>Image / 3D Understanding</strong> (click to expand):</summary>
 
-<details>
-  <summary><strong>Image / Point Cloud Semantic Segmentation</strong> (click to expand):</summary>
-  
+  - 📂 [ME-Net (JAG'23)](https://github.com/WHU-USI3DV/MENet) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/MENet.svg) : Objection detection utilizing both image and Lidar from mobile platform;
   - 📂 [Mobile-Seed (RAL'24)](https://github.com/WHU-USI3DV/Mobile-Seed) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/Mobile-Seed.svg) : An online framework for simultaneous semantic segmentation and boundary detection on compact robots;
+  - 📂 [GAGS (arXiv'24)](https://github.com/WHU-USI3DV/GAGS) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/GAGS.svg) : GAGS enables accurate open-vocabulary understanding of a 3D scene;
 </details>
 
 <details>
