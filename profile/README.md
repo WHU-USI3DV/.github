@@ -39,7 +39,7 @@ We are Urban Spatial Intelligence (USI) Research Group at the State Key Laborato
     | [Bo Qiu](https://boqiuphd.github.io/) | M.S. student, Wuhan University | Scene Understanding, intelligent transportation systems                                        |
     | [Youqi Liao](https://martin-liao.github.io/) | M.S. student, Wuhan University | Visual Localization, Place Recognition                                             |
     | [Hang Xu](https://xuhang0806.github.io/) | M.S. student, Wuhan University | Point Cloud Generation / Completion / Editing                        |
-    | [Chengjie Li](https://pipijie16.github.io/) | M.S. student, Wuhan University | 3D City / Building reconstruction, Urban Morphology & Microclimate                        |
+    | [Chengjie Li](https://pipijie16.github.io/) | M.S. student, Wuhan University | 3D City Models, Urban Morphology & Microclimate                        |
     | [Yuning Peng](https://pz0826.github.io/) | M.S. student, Wuhan University | 3D Reconstruction / Understanding / LLM               |
     | [Yizhe Zhang](https://yizhezhang0418.github.io/) | M.S. student, Wuhan University | Robotics, 3D Reconstruction, Automatic Control                                     |
     | [Qingwen Tan](https://github.com/TanQingw) | M.S. student, Wuhan University | Semantic Segmentation, Diffusion Models                                     |
