@@ -56,6 +56,7 @@ We are Urban Spatial Intelligence (USI) Research Group at the State Key Laborato
   - 📂 [WHU-Urban-3D](https://whu3d.com/) : ALS/MLS semantic/instance segmentation benchmark;
   - 📂 [WHU-Railway3D](https://github.com/WHU-USI3DV/WHU-Railway3D) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/WHU-Railway3D.svg): Semantic segmentation benchmark for railway scenario;
   - 📂 [WHU-Lane](https://github.com/WHU-USI3DV/LaneMapping) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/LaneMapping.svg): A Benchmark Approach and Dataset for Large-scale Lane Mapping from MLS Point Clouds;
+  - 📂 [WHU-Synthetic](https://github.com/WHU-USI3DV/WHU-Synthetic) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/WHU-Synthetic.svg): A large-scale 3D synthetic perception dataset designed for multi-task learning;
 </details>
 
 <details>
@@ -116,6 +117,13 @@ We are Urban Spatial Intelligence (USI) Research Group at the State Key Laborato
   - 📂 [Mobile-Seed (RAL'24)](https://github.com/WHU-USI3DV/Mobile-Seed) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/Mobile-Seed.svg) : An online framework for simultaneous semantic segmentation and boundary detection on compact robots;
   - 📂 [GAGS (arXiv'24)](https://github.com/WHU-USI3DV/GAGS) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/GAGS.svg) : GAGS enables accurate open-vocabulary understanding of a 3D scene;
 </details>
+
+<details>
+  <summary><strong> 3D-LLM </strong> (click to expand):</summary>
+  
+  - 📂 [CityAnchor](https://github.com/WHU-USI3DV/CityAnchor) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/CityAnchor.svg): Find targets in city-scale point clouds with text descriptions using LLM;
+</details>
+
 
 <details>
   <summary><strong> Urban Morphology & Sustainable Development </strong> (click to expand):</summary>
