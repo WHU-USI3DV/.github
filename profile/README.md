@@ -111,11 +111,12 @@ We are Urban Spatial Intelligence (USI) Research Group at the State Key Laborato
 </details>
 
 <details>
-  <summary><strong>Image / 3D Understanding</strong> (click to expand):</summary>
+  <summary><strong>Image / 3D Segmentation</strong> (click to expand):</summary>
 
   - 📂 [ME-Net (JAG'23)](https://github.com/WHU-USI3DV/MENet) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/MENet.svg) : Objection detection utilizing both image and Lidar from mobile platform;
   - 📂 [Mobile-Seed (RAL'24)](https://github.com/WHU-USI3DV/Mobile-Seed) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/Mobile-Seed.svg) : An online framework for simultaneous semantic segmentation and boundary detection on compact robots;
   - 📂 [GAGS (arXiv'24)](https://github.com/WHU-USI3DV/GAGS) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/GAGS.svg) : GAGS enables accurate open-vocabulary understanding of a 3D scene;
+  - 📂 [StreetSeg (ISPRS J'25)](https://github.com/WHU-USI3DV/StreetSeg) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/StreetSeg.svg) :Cross-modal Semantic Transfer for Point Cloud Semantic Segmentation without 3D Annotation;
 </details>
 
 <details>
