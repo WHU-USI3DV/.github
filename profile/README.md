@@ -84,7 +84,7 @@ We are Urban Spatial Intelligence (USI) Research Group at the State Key Laborato
 <details>
   <summary><strong>3D Generation</strong> (click to expand):</summary>
   
-  - 📂 [VistaDream (arXiv'24)](https://github.com/WHU-USI3DV/VistaDream) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/VistaDream.svg): VistaDream is a training-free framework to reconstruct a high-quality 3D scene from a single-view image;
+  - 📂 [VistaDream (ICCV'25)](https://github.com/WHU-USI3DV/VistaDream) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/VistaDream.svg): VistaDream is a training-free framework to reconstruct a high-quality 3D scene from a single-view image;
 </details>
 
 <details>
