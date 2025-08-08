@@ -62,6 +62,7 @@ We are Urban Spatial Intelligence (USI) Research Group at the State Key Laborato
   - 📂 [WHU-Lane](https://github.com/WHU-USI3DV/LaneMapping) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/LaneMapping.svg): A Benchmark Approach and Dataset for Large-scale Lane Mapping from MLS Point Clouds;
   - 📂 [WHU-Synthetic](https://github.com/WHU-USI3DV/WHU-Synthetic) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/WHU-Synthetic.svg): A large-scale 3D synthetic perception dataset designed for multi-task learning;
   - 📂 [WHU-Road3D](https://github.com/WHU-USI3DV/WHU-Road3D) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/WHU-Road3D.svg): A review and benchmark for detailed road surface mapping;
+  - 📂 [WHU-STree](https://github.com/WHU-USI3DV/WHU-STree) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/WHU-STree.svg): A multi-modal benchmark dataset for street tree inventory;
 </details>
 
 <details>
@@ -72,6 +73,7 @@ We are Urban Spatial Intelligence (USI) Research Group at the State Key Laborato
   - 📂 [RoReg (TPAMI'23)](https://github.com/HpWang-whu/RoReg) ![Github stars](https://img.shields.io/github/stars/HpWang-whu/RoReg.svg): Utilizing rotation-equivariance in the whole pipeline of pairwise registration;
   - 📂 [SGHR (CVPR'23)](https://github.com/WHU-USI3DV/SGHR) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/SGHR.svg): A simple multiview pc registration baseline;
   - 📂 [MSReg (IEEE TGRS'24)](https://github.com/WHU-USI3DV/MSReg) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/MSReg.svg): Fast 4DOF registration of MLS and stereo point clouds;
+  - 📂 [RegScorer (Under submission)](https://github.com/WHU-USI3DV/RegScorer) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/RegScorer.svg): A model that learns to score the candidate transformations for point cloud registration;
 </details>
 
 <details>
@@ -91,6 +93,7 @@ We are Urban Spatial Intelligence (USI) Research Group at the State Key Laborato
   <summary><strong>Point Cloud Upsampling</strong> (click to expand):</summary>
   
   - 📂 [PC2-PU (ACM MM'22)](https://github.com/chenlongwhu/PC2-PU) ![Github stars](https://img.shields.io/github/stars/chenlongwhu/PC2-PU.svg) : A transformer-based point cloud upsampling baseline;
+  - 📂 [WIN (TITS'25)](https://github.com/WHU-USI3DV/WIN) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/WIN.svg) : LiDAR upsampling network based on variable-view interpolation;
 </details>
 
 <details>
@@ -135,6 +138,7 @@ We are Urban Spatial Intelligence (USI) Research Group at the State Key Laborato
   <summary><strong> Urban Morphology & Sustainable Development </strong> (click to expand):</summary>
   
   - 📂 [3DBIE-SolarPV (Applied Energy‘24)](https://github.com/WHU-USI3DV/3DBIE-SolarPV) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/3DBIE-SolarPV.svg) : City-scale solar PV potential estimation on 3D buildings using multi-source RS data: A case study in Wuhan, China;
+  - 📂 [TSC-Net (Under submission)](https://github.com/WHU-USI3DV/TSC-Net) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/TSC-Net.svg) : A roadside tree structure parameter computation network using street-view images;
 </details>
 
 <details>
