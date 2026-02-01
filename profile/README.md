@@ -73,7 +73,7 @@ We are Urban Spatial Intelligence (USI) Research Group at the State Key Laborato
   - 📂 [RoReg (TPAMI'23)](https://github.com/HpWang-whu/RoReg) ![Github stars](https://img.shields.io/github/stars/HpWang-whu/RoReg.svg): Utilizing rotation-equivariance in the whole pipeline of pairwise registration;
   - 📂 [SGHR (CVPR'23)](https://github.com/WHU-USI3DV/SGHR) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/SGHR.svg): A simple multiview pc registration baseline;
   - 📂 [MSReg (IEEE TGRS'24)](https://github.com/WHU-USI3DV/MSReg) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/MSReg.svg): Fast 4DOF registration of MLS and stereo point clouds;
-  - 📂 [RegScorer (Under submission)](https://github.com/WHU-USI3DV/RegScorer) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/RegScorer.svg): A model that learns to score the candidate transformations for point cloud registration;
+  - 📂 [RegScorer (ISPRS J'26)](https://github.com/WHU-USI3DV/RegScorer) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/RegScorer.svg): A model that learns to score the candidate transformations for point cloud registration;
 </details>
 
 <details>
@@ -123,9 +123,9 @@ We are Urban Spatial Intelligence (USI) Research Group at the State Key Laborato
 
   - 📂 [ME-Net (JAG'23)](https://github.com/WHU-USI3DV/MENet) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/MENet.svg) : Objection detection utilizing both image and Lidar from mobile platform;
   - 📂 [Mobile-Seed (RAL'24)](https://github.com/WHU-USI3DV/Mobile-Seed) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/Mobile-Seed.svg) : An online framework for simultaneous semantic segmentation and boundary detection on compact robots;
-  - 📂 [GAGS (arXiv'24)](https://github.com/WHU-USI3DV/GAGS) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/GAGS.svg) : GAGS enables accurate open-vocabulary understanding of a 3D scene;
   - 📂 [StreetSeg (ISPRS J'25)](https://github.com/WHU-USI3DV/StreetSeg) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/StreetSeg.svg) :Cross-modal Semantic Transfer for Point Cloud Semantic Segmentation without 3D Annotation;
   - 📂 [SimPCSS (PE\&RS'25)](https://github.com/WHU-USI3DV/SimPCSS) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/SimPCSS.svg) : Enhancing the segmentation performance of low-quality point clouds using high-quality simulated point clouds;
+  - 📂 [GAGS (AAAI'26)](https://github.com/WHU-USI3DV/GAGS) ![Github stars](https://img.shields.io/github/stars/WHU-USI3DV/GAGS.svg) : GAGS enables accurate open-vocabulary understanding of a 3D scene;
 </details>
 
 <details>
