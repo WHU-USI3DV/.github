@@ -1,17 +1,35 @@
 <h2 align="center"> <p> 🎉 🎊 💡 WHU-USI3DV 🎓 👋 👏 </p></h2>
 
 We are Urban Spatial Intelligence (USI) Research Group at the State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University. We focus on 3D Computer Vision, particularly including 3D reconstruction, scene understanding, and point cloud processing as well as their applications in intelligent transportation system, digital twin cities, urban sustainable development, and robotics. Check our works by topic:
+
 <details>
   <summary><strong>LIESMARS Administrator</strong> (click to expand):</summary>
 
-<p align="center">
-  <img src="images/Juntao_Huang.jpg" width="150" />
-</p>
+<table>
+<tr>
+<td align="center" width="180">
+<div>
+<img src="images/Juntao_Huang.jpg"
+     width="120"
+     height="120"
+     style="border-radius:50%; overflow:hidden;">
+</div>
 
-<p align="center">
-  <strong>Juntao Huang</strong><br>
-  Administrator, State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University
-</p>
+
+<strong>Juntao Huang</strong>
+
+</td>
+
+<td>
+
+Administrator, State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University
+
+<br>
+
+</td>
+
+</tr>
+</table>
 
 </details>
 
